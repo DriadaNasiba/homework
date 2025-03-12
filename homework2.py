@@ -47,8 +47,7 @@ figures = [
 for figure in figures:
     figure.info()
 
-for figure in figures:
-    figure.info()
+
 
 
 
