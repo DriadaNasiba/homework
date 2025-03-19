@@ -58,3 +58,4 @@ def binary_search(A, Val):
     else:
         print("Item  not found")
         return -1
+    
